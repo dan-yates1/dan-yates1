@@ -1,13 +1,15 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<iframe src="" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
-
-# Dan Yates 👋
-
-Hi, I'm Dan a computer science graudate from London. I am passionate about all things tech and have a particular interest in topics like artifcial intelligence, machine learning, mobile dev and more.
-
-# Life
-
-# Skills
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/daniel-yates-b7a184196/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dan-yates1.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/dan_yates2">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
