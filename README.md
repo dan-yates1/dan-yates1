@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -26,9 +26,25 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/tZqBZPEPUrzuUIELIV/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/FY9chKp6rulXy/giphy.gif" width="800" height="400"/>
 </div>
 
 <h1>Life</h1>
 
+- :telescope: Completed Bachelor's degree in 2021
+
+- :seedling: Completed Master's degree in 2022
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-yates-b7a184196/)
+
 <h1>Skills</h1>
+
+- :telescope: Python (Keras, tensor-flow, scikit-learn, Pandas, Flask)
+
+- :seedling: Java (Java FX)
+
+- :zap: C++ (Qt, Boost)
+
+- :mailbox: Mobile Development (Java, Kotlin, Flutter)
+
+- :telescope: HMTL/CSS/Javascript
