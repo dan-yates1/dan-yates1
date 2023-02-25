@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Massivesci-robots-ai-artificial-intelligence-WxJLwDBAXDsW1fqZ3v" width="100"/>
+  <img src="https://giphy.com/gifs/Massivesci-ai-chess-artificial-intelligence-Tegq5EI9rtwrhORHQz" width="100"/>
 </div>
 
 # Dan Yates 👋
