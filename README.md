@@ -20,15 +20,17 @@
 
 <div align="center">
   <h1>
-    hey there
+    Hey there, I'm Dan
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
   </h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/FY9chKp6rulXy/giphy.gif" width="800" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dan-yates1&show_icons=true&theme=transparent" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-yates1&layout=compact" />
 </div>
 
+<div>
 <h1>Life</h1>
 
 - :telescope: Completed Bachelor's degree in 2021
@@ -48,3 +50,4 @@
 - :mailbox: Mobile Development (Java, Kotlin, Flutter)
 
 - :telescope: HMTL/CSS/Javascript
+</div>
