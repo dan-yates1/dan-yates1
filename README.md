@@ -25,7 +25,7 @@
   </h1>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dan-yates1&show_icons=true&theme=transparent" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-yates1&layout=compact" />
 </div>
