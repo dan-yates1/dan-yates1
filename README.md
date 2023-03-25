@@ -1,53 +1,34 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" width="100"/>
-</div>
+[![MasterHead](https://thinkhwi.com/wp-content/uploads/2020/07/space-exploration-banner.jpg)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Dan!</h1>
+<h3 align="center">A computer MSc graduate passionate about AI, machine learning, and software development</h3>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/daniel-yates-b7a184196/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://dan-yates1.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/dan_yates2">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F11jacPItBsJDLa%2Fsource.gif&f=1&nofb=1&ipt=07c3a5a436a9d06cd72dd2b556eb2ca6f3ce3246d1232c9f39af56e75e21f487&ipo=images">
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-dan-yates1&style=flat-square&color=blue" alt=""/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-yates1&label=Profile%20views&color=0e75b6&style=flat" alt="dan-yates1" /> </p>
 
-<div align="center">
-  <h1>
-    Hey there, I'm Dan
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
-  </h1>
-</div>
+- 🌱 I’m currently learning **Flutter, Dart and Keras**
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dan-yates1&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-yates1&layout=compact" />
-</div>
+- 👨‍💻 All of my projects are available at [https://dan-yates1.github.io/portfolio/](https://dan-yates1.github.io/portfolio/)
 
-<div>
-<h1>Life</h1>
+- 💬 Ask me about **Python**
 
-- :telescope: Completed Bachelor's degree in 2021
+- 📫 How to reach me **dsyates@live.co.uk**
 
-- :seedling: Completed Master's degree in 2022
+- 📄 Know about my experiences [https://docs.google.com/document/d/1PtvNPaVmt8fL8dh410l-uOozJzn1gYqtr6rjnN-gazQ/edit?usp=share_link](https://docs.google.com/document/d/1PtvNPaVmt8fL8dh410l-uOozJzn1gYqtr6rjnN-gazQ/edit?usp=share_link)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-yates-b7a184196/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daniel-yates-b7a184196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-yates-b7a184196" height="30" width="40" /></a>
+<a href="https://kaggle.com/danielyates2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="danielyates2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/danyy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="danyy1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dansy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dansy" height="30" width="40" /></a>
+</p>
 
-<h1>Skills</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-- :telescope: Python (Keras, tensor-flow, scikit-learn, Pandas, Flask)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan-yates1&show_icons=true&locale=en&layout=compact" alt="dan-yates1" /></p>
 
-- :seedling: Java (Java FX)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-yates1&show_icons=true&locale=en" alt="dan-yates1" /></p>
 
-- :zap: C++ (Qt, Boost)
-
-- :mailbox: Mobile Development (Java, Kotlin, Flutter)
-
-- :telescope: HMTL/CSS/Javascript
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dan-yates1&" alt="dan-yates1" /></p>
