@@ -1,4 +1,4 @@
-[![MasterHead](https://thinkhwi.com/wp-content/uploads/2020/07/space-exploration-banner.jpg)](https://rishavchanda.io)
+[![MasterHead](https://linkedinbackground.com/download/1435/1435-Coding-Website-Layout.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dan!</h1>
 <h3 align="center">A computer science MSc graduate passionate about AI, machine learning, and software development</h3>
 
