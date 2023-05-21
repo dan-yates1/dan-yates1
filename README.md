@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dan!</h1>
 <h3 align="center">A computer science MSc graduate passionate about AI, machine learning, and software development</h3>
 
-<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F11jacPItBsJDLa%2Fsource.gif&f=1&nofb=1&ipt=07c3a5a436a9d06cd72dd2b556eb2ca6f3ce3246d1232c9f39af56e75e21f487&ipo=images">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-yates1&label=Profile%20views&color=0e75b6&style=flat" alt="dan-yates1" /> </p>
 
