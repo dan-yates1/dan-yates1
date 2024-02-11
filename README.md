@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">Passionate about full-stack and machine learning</h3>
+<h1 align="center">Hi 👋, I'm Dan!</h1>
+<h3 align="center">A recent computer science master's graduate, passionate about full-stack and machine learning</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-yates1&label=Profile%20views&color=0e75b6&style=flat" alt="dan-yates1" /> </p>
+
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **dsyates@live.co.uk**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Wmcdc4-Aw_7Ot8b2NThizaGq73-4HfPu/view?usp=drive_link](https://drive.google.com/file/d/1Wmcdc4-Aw_7Ot8b2NThizaGq73-4HfPu/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
