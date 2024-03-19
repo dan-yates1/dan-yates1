@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dsyates@live.co.uk**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wmcdc4-Aw_7Ot8b2NThizaGq73-4HfPu/view?usp=sharing](https://drive.google.com/file/d/1Wmcdc4-Aw_7Ot8b2NThizaGq73-4HfPu/view?usp=sharing)
+- 📄 Know about my experiences [danyates.co.uk](danyates.co.uk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
