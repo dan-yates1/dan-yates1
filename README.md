@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-yates1&label=Profile%20views&color=0e75b6&style=flat" alt="dan-yates1" /> </p>
 
-- 🔭 I’m currently working on [Movie Recommendation App](https://github.com/dan-yates1/movie-reccomender)
-
-- 🌱 I’m currently learning **Next.js**
-
 - 📫 How to reach me **dsyates@live.co.uk**
 
-- 📄 Know about my experiences [danyates.co.uk](danyates.co.uk)
+- 📄 Check out my portfolio [danyates.co.uk](danyates.co.uk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
