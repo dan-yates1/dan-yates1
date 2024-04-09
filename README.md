@@ -18,7 +18,7 @@ I'm Dan, a Master's in Computer Science graduate passionate about full-stack dev
 ## 🚀 Contact Me
 
 - Email: dsyates@live.co.uk
-- LinkedIn: [linkedin/daniel-yates1](https://www.linkedin.com/in/daniel-yates1/)
-- Portfolio: [danyates.co.uk](https://www.danyates.co.uk/)
+- LinkedIn: <a href="https://www.linkedin.com/in/daniel-yates1/" target="_blank">linkedin/daniel-yates1</a>
+- Portfolio: <a href="https://www.danyates.co.uk/" target="_blank">danyates.co.uk</a>
 
 Feel free to connect and explore more about my work!
