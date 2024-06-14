@@ -7,8 +7,8 @@ I'm Dan, a Master's in Computer Science graduate passionate about full-stack dev
 - **Languages**: JavaScript, TypeScript, Python, Java, HTML/CSS
 - **Frontend**: React.js, Next.js, Tailwind
 - **Backend**: FastAPI, Flask
-- **Databases**: MySQL, MongoDB, PostgreSQL, SQLite
-- **Tools & Tech**: Git, Docker, RESTful APIs
+- **Databases**: MySQL, MongoDB
+- **Tools & Tech**: Git, RESTful APIs, Figma
 
 ## 🎓 Education
 
