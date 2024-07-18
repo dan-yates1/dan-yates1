@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Dan, a Master's in Computer Science graduate passionate about full-stack development. Here's a glimpse into my world:
+I'm Dan, a Master's in Computer Science graduate passionate about full-stack development and machine learning. Here's a glimpse into my world:
 
 ## 🔧 Skills
 
