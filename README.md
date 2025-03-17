@@ -4,11 +4,11 @@ I'm Dan, a MSc Computer Science graduate passionate about full-stack development
 
 ## 🔧 Skills
 
-- **Languages**: JavaScript, TypeScript, Python, Java, HTML/CSS
-- **Frontend**: React.js, Next.js, Tailwind
-- **Backend**: FastAPI, Flask
+- **Languages**: JavaScript, TypeScript, Python, HTML/CSS
+- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Backend**: FastAPI, Node.js, Express.js
 - **Databases**: Postgres, MongoDB
-- **Tools & Tech**: Git, RESTful APIs, Figma
+- **Tools & Tech**: Git, RESTful APIs, Figma, Stripe
 
 ## 🎓 Education
 
